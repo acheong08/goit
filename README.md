@@ -2,6 +2,12 @@
 
 Because this feels so much simpler than func(func(func))...
 
+## Warning
+
+This is an experimental feature of Go1.23. To use this, `GOEXPERIMENT=rangefunc` must be set in your environment variables.
+
+Read more here: https://go.dev/wiki/RangefuncExperiment
+
 ## Example
 
 ```go
